@@ -7,11 +7,10 @@ This project presents an **AI-powered Hangman game** that learns to guess words 
 ## Team
 Developed by:  
 
-**Diya D Bhat**  
-**Dhanya Prabhu**  
-**Delisha Riyona Dsouza**
-**Eshwar R A**  
-
+**Diya D Bhat**  https://github.com/PES2UG23CS183/ML_C_PES2UG23CS183_Diya/tree/main/ML_Hackathon
+**Dhanya Prabhu**  https://github.com/pes2ug23cs169/ML_C_PES2UG23CS169_Dhanya/tree/main/ML_Hackathon
+**Eshwar R A**  https://github.com/pes2ug23cs188-oss/ML_C_PES2UG23CS188_Eshwar-R-A
+**Delisha Riyona Dsouza** https://github.com/pes2ug23cs166/ML_C_PES2UG23CS166_DELISHA_RIYONA_DSOUZA/tree/main/ML_hackathon
 
 ## Project Description
 This work explores a **hybrid AI approach** that merges probabilistic reasoning (HMM) and sequential decision-making (Reinforcement Learning) to tackle the Hangman word-guessing challenge.
